@@ -1,3 +1,5 @@
+This is a basic example usage of Google Test.
+
 To run, edit GTEST_DIR in Makefile.
 Then execute:
 % make 

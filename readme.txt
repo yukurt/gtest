@@ -1,0 +1,1 @@
+is_even - basic example usage of Google Test
